@@ -1,0 +1,13 @@
+.Parent:hover .shape {
+  filter: drop-shadow(0px 0px 5px rgb(233, 230, 230));
+}
+
+.Parent:hover .image {
+  background-image: linear-gradient(to right top, white, rgb(0, 110, 255));
+}
+
+.featureCard2:hover .featureCardSVG{
+  filter: drop-shadow(0px 0px 10px #525a76);
+  stroke: none;
+}
+
